@@ -1,8 +1,11 @@
 # Kaltura_csharp_examples
 Some examples on using the Kaltura API with the C# library.
+These examples have been tested using the
+[KalturaGeneratedAPIClientsCsharp](https://github.com/kaltura/KalturaGeneratedAPIClientsCsharp)
+[v14.1.0](https://github.com/kaltura/KalturaGeneratedAPIClientsCsharp/releases/tag/v14.1.0)
 
 # License
-Copyright (c) 2018, NORDUnet A/S
+Copyright (c) 2018-2019, NORDUnet A/S
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
